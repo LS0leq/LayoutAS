@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Apka Gridy</string>
+    <string name="error_invalid_number">Błędny numer, wprowadź pomiędzy 1 - 35</string>
+    <string name="error_invalid_age">Błędny rok urodzenia, wprowadź pomiędzy (1940-2025)</string>
+</resources>
